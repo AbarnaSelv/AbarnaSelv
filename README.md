@@ -89,6 +89,16 @@ An **intermediate-level Selenium automation framework** designed for testing the
 
 ---
 
+## 🖼️ Screenshots & Videos
+Each project repository includes:
+- 📸 **Screenshots** of project structure & execution results  
+- 🎥 **Video recordings** of test executions  
+- 📝 Detailed **README documentation** with setup steps and explanations  
+
+👉 Check the individual repos linked above to explore them in detail.  
+
+---
+
 ## 🛠️ Tech Stack
 - **Languages**: Java (Core + Advanced)  
 - **Automation Tools**: Selenium WebDriver (3 & 4)  
