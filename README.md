@@ -29,6 +29,8 @@ It represents my **learning phase** where I started with **Java basics** and pro
 
 📌 *This project is the foundation of my Selenium learning journey.*  
 
+📌 **Note:** This project does **not include screenshots or videos** as it was part of my initial learning journey.
+
 ---
 
 ### 2. [SeleniumLoginAutomation](https://github.com/AbarnaSelv/SeleniumLoginAutomation) _(Beginner Level Project)_
@@ -89,10 +91,35 @@ An **intermediate-level Selenium automation framework** designed for testing the
 
 ---
 
+### 5. [orangehrm-automation-framework](https://github.com/AbarnaSelv/orangehrm-automation-framework) _(Advanced Level Project)_
+This is an **advanced data-driven automation testing framework** built for **OrangeHRM (opensource demo site)**.  
+It demonstrates **end-to-end automation** of core HRMS features such as login and **employee management (PIM module)**, aligning with **real-world enterprise automation practices**.
+
+**Tech stack:**
+- Java  
+- Selenium WebDriver  
+- Cucumber (BDD)  
+- TestNG  
+- Page Object Model (POM)  
+- Maven  
+- Jenkins (for CI/CD integration readiness)  
+
+**Key Features:**
+- **Data-driven testing** with Excel  
+- **Cross-browser execution**  
+- **Reusable utility classes**  
+- **Professional reports** (Extent Reports + Cucumber HTML)  
+- **Jenkins compatibility** → Framework is designed to be easily integrated with Jenkins pipelines for automated execution  
+- Screenshots & Videos included in repo  
+
+📌 This project highlights **scalability, maintainability, and enterprise-level framework design**.
+
+
+---
+
 ## 🖼️ Screenshots & Videos
-Each project repository includes:
-- 📸 **Screenshots** of project structure & execution results  
-- 🎥 **Video recordings** of test executions  
+- **selenium-java-framework** → No screenshots/videos (Learning phase only)  
+- All other projects → Include 📸 **Screenshots** of project structure & execution results + 🎥 **Video recordings** of test executions  
 - 📝 Detailed **README documentation** with setup steps and explanations  
 
 👉 Check the individual repos linked above to explore them in detail.  
@@ -115,11 +142,7 @@ Each project repository includes:
 - **Phase 1 (Learning)** → Core Java + Selenium basics (`selenium-java-framework`)  
 - **Phase 2 (Basics)** → Compact structured projects (`SeleniumLoginAutomation`, `FormSubmissionAutomation`)  
 - **Phase 3 (Intermediate)** → Framework design & reporting (`Automation-on-ECommerceCart`)  
-- **Phase 4 (Upcoming Advanced Projects)**  
-  - Data-driven testing  
-  - Jenkins CI/CD integration  
-  - Cucumber with advanced BDD frameworks  
-
+- **Phase 4 (Advanced):** Data-driven + BDD frameworks + Jenkins → *orangehrm-automation-framework*  
 ---
 
 ## 📬 Connect with Me
