@@ -142,7 +142,7 @@ It demonstrates **end-to-end automation** of core HRMS features such as login an
 - **Phase 1 (Learning)** → Core Java + Selenium basics (`selenium-java-framework`)  
 - **Phase 2 (Basics)** → Compact structured projects (`SeleniumLoginAutomation`, `FormSubmissionAutomation`)  
 - **Phase 3 (Intermediate)** → Framework design & reporting (`Automation-on-ECommerceCart`)  
-- **Phase 4 (Advanced):** Data-driven + BDD frameworks + Jenkins → *orangehrm-automation-framework*  
+- **Phase 4 (Advanced):** Data-driven + BDD frameworks + Jenkins (`orangehrm-automation-framework`)  
 ---
 
 ## 📬 Connect with Me
