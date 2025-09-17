@@ -102,7 +102,7 @@ It demonstrates **end-to-end automation** of core HRMS features such as login an
 - TestNG  
 - Page Object Model (POM)  
 - Maven  
-- Jenkins (for CI/CD integration readiness)  
+- Jenkins 
 
 **Key Features:**
 - **Data-driven testing** with Excel  
