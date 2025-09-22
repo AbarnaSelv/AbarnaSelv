@@ -129,7 +129,7 @@ It demonstrates **end-to-end automation** of core HRMS features such as login an
 ## 🛠️ Tech Stack
 - **Languages**: Java (Core + Advanced)  
 - **Automation Tools**: Selenium WebDriver (3 & 4)  
-- **Testing Frameworks**: TestNG, JUnit  
+- **Testing Frameworks**: TestNG
 - **Design Pattern**: Page Object Model (POM), PageFactory  
 - **BDD**: Cucumber (learning phase)  
 - **Build Tool**: Maven  
