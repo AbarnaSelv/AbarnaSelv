@@ -1,17 +1,17 @@
-# Selenium Automation Projects Portfolio
+# Automation Testing Portfolio
 
-Welcome to my **Selenium Automation Portfolio**!  
-This repository is a central hub showcasing my learning journey and projects — starting from **Java fundamentals**, moving into **basic Selenium frameworks**, and progressing towards **intermediate and advanced automation frameworks**.  
+This repository presents a collection of **Automation Testing projects**, covering both **UI and API testing**.  
+It highlights a progression from **Java fundamentals** to **Selenium automation frameworks** and further into **REST Assured API testing**.  
 
-I’ve structured my work to reflect my growth as an Automation Engineer — from learning the foundations to building scalable test frameworks.  
+The projects demonstrate growth in building **scalable, maintainable, and enterprise-ready automation frameworks**.
 
 ---
 
 ## Projects
 
-### 1. [selenium-java-framework](https://github.com/AbarnaSelv/selenium-java-framework) _(Learning Phase Project)_
-This is my **first Selenium project**, built while following Koushik’s YouTube tutorials.  
-It represents my **learning phase** where I started with **Java basics** and progressed into Selenium automation.
+### 1. [selenium-java-framework](https://github.com/AbarnaSelv/selenium-java-framework) _(Learning Phase)_
+This is my **first Selenium project**, created while following Koushik’s tutorials.  
+It focuses on applying **Java fundamentals** to practical Selenium automation tasks, providing a **strong foundation for building automation frameworks**.
 
 **Java topics covered:**
 - Variables, Methods, Constructors, Arrays, Data types  
@@ -20,40 +20,38 @@ It represents my **learning phase** where I started with **Java basics** and pro
 - Exception Handling  
 - Collections (basic to advanced)  
 
-**Tech stack used in this project:**
+**Tech stack:**
 - Java (Core + OOP concepts)  
-- Selenium **3.141.59**  
-- TestNG **6.14.2**  
+- Selenium 3.141.59  
+- TestNG 6.14.2  
 - Page Object Model (POM)  
 - Cucumber (BDD)  
 
-*This project is the foundation of my Selenium learning journey.*  
-
-**Note:** This project does **not include screenshots or videos** as it was part of my initial learning journey.
+*Built to practice and reinforce core Java and Selenium concepts for beginners.*
 
 ---
 
-### 2. [SeleniumLoginAutomation](https://github.com/AbarnaSelv/SeleniumLoginAutomation) _(Beginner Level Project)_
-A **compact, beginner-friendly** Selenium automation project demonstrating a **professional structure** with simple test flows.  
+### 2. [SeleniumLoginAutomation](https://github.com/AbarnaSelv/SeleniumLoginAutomation) _(Beginner Level)_
+A **compact Selenium project** demonstrating professional structure with simple, reusable test flows.
 
 **Tech stack:**
 - Java 17  
 - Selenium 4  
 - TestNG  
 - Page Object Model (PageFactory)  
-- Maven for dependency management  
+- Maven  
 
-**Implemented Test Flows:**
-1. **Login** → Authenticate into the site  
-2. **Logout** → Open menu & logout (with explicit waits)  
-3. **Add product to cart → verify → logout** → Add *Sauce Labs Backpack* to cart, validate, and logout  
+**Test Flows:**
+1. Login → authenticate into the site  
+2. Logout → open menu & logout (with explicit waits)  
+3. Add product to cart → verify → logout  
 
-*This repo demonstrates Selenium basics with proper project setup.*  
+*Focuses on Selenium basics with clean project organization.*
 
 ---
 
-### 3. [FormSubmissionAutomation](https://github.com/AbarnaSelv/FormSubmissionAutomation) _(Next-Level Basics)_
-This project extends my Selenium basics into **real-world form interactions**.  
+### 3. [FormSubmissionAutomation](https://github.com/AbarnaSelv/FormSubmissionAutomation) _(Intermediate Basics)_
+Extends Selenium basics into **real-world form interactions**.
 
 **Tech stack:**
 - Java 17  
@@ -64,36 +62,34 @@ This project extends my Selenium basics into **real-world form interactions**.
 
 **Scenarios Covered:**
 - Login & password  
-- Disabled & Read-only input fields  
+- Disabled & read-only input fields  
 - Dropdowns, Radio buttons, Checkboxes  
 - File upload  
 - Color picker, Date picker, Range slider  
-- Submitting the form  
+- Form submission  
 
-*A lightweight, modular framework — designed for scalability & faster test development.*  
+*Designed for modularity, maintainability, and scalability.*
 
 ---
 
-### 4. [Automation-on-ECommerceCart](https://github.com/AbarnaSelv/Automation-on-ECommerceCart) _(Intermediate Project)_
-An **intermediate-level Selenium automation framework** designed for testing the **end-to-end flow of an e-commerce application**.  
+### 4. [Automation-on-ECommerceCart](https://github.com/AbarnaSelv/Automation-on-ECommerceCart) _(Intermediate)_
+An **end-to-end Selenium automation framework** for e-commerce applications.
 
-**Features implemented:**
+**Features:**
 - Login → Add products to cart → Checkout → Verify order success → Logout  
 - Page Object Model (POM)  
 - WebDriverManager for automatic driver handling  
 - Utility classes for screenshots & reusable methods  
-- TestNG Listeners for logging and execution tracking  
-- Extent Reports for **professional HTML reporting**  
-- Default TestNG `test-output` reports  
-- `.gitignore` included for clean version control  
+- TestNG Listeners for logging & execution tracking  
+- Extent Reports for professional HTML reporting  
+- Default TestNG reports (`test-output`)  
 
-*This project focuses on framework design, reusability, and reporting.*  
+*Focus on framework design, reusability, and reporting.*
 
 ---
 
-### 5. [orangehrm-automation-framework](https://github.com/AbarnaSelv/orangehrm-automation-framework) _(Advanced Level Project)_
-This is an **advanced data-driven automation testing framework** built for **OrangeHRM (opensource demo site)**.  
-It demonstrates **end-to-end automation** of core HRMS features such as login and **employee management (PIM module)**, aligning with **real-world enterprise automation practices**.
+### 5. [orangehrm-automation-framework](https://github.com/AbarnaSelv/orangehrm-automation-framework) _(Advanced Level)_
+An **advanced, data-driven framework** for **OrangeHRM (opensource demo)**.
 
 **Tech stack:**
 - Java  
@@ -102,53 +98,65 @@ It demonstrates **end-to-end automation** of core HRMS features such as login an
 - TestNG  
 - Page Object Model (POM)  
 - Maven  
-- Jenkins 
+- Jenkins  
 
 **Key Features:**
-- **Data-driven testing** with Excel  
-- **Cross-browser execution**  
-- **Reusable utility classes**  
-- **Professional reports** (Extent Reports + Cucumber HTML)  
-- **Jenkins compatibility** → Framework is designed to be easily integrated with Jenkins pipelines for automated execution  
-- Screenshots & Videos included in repo  
+- Data-driven testing using Excel  
+- Cross-browser execution  
+- Reusable utilities  
+- Advanced reporting (Extent Reports + Cucumber HTML)  
+- CI/CD ready for Jenkins integration  
+- Screenshots & execution videos included  
 
-This project highlights **scalability, maintainability, and enterprise-level framework design**.
+*Demonstrates enterprise-level automation design and maintainability.*
+
+---
+
+### 6. [RESTAssuredAutomation](https://github.com/AbarnaSelv/RESTAssuredAutomation) _(API & Automation Testing)_
+This project demonstrates **API automation testing** using REST Assured, complementing my Selenium work.
+
+**Highlights:**
+- API CRUD operations: GET, POST, PUT, PATCH, DELETE  
+- JSON and XML schema validation  
+- SOAP request handling  
+- Maven-based project structure for easy dependency management  
+- Test execution videos and project screenshots included  
+
+*Structured for clarity, reusability, and real-world API testing practices.*
+
+---
+
+## Screenshots & Execution Evidence
+- All projects include **execution screenshots** and **video recordings** to demonstrate test runs and framework functionality.  
+- Detailed **README documentation** in each repository explains project setup and execution steps. 
+
+---
+
+## Overall Tech Stack
+- **Languages:** Java (Core + Advanced)  
+- **Automation Tools:** Selenium WebDriver, REST Assured  
+- **Testing Frameworks:** TestNG  
+- **Design Pattern:** Page Object Model (POM), PageFactory  
+- **BDD:** Cucumber (learning phase)  
+- **Build Tool:** Maven  
+- **CI/CD:** Jenkins  
+- **Reporting:** Extent Reports, TestNG HTML Reports  
+- **Utilities:** WebDriverManager, Git, .gitignore  
 
 
 ---
 
-## Screenshots & Videos
-- **selenium-java-framework** → No screenshots/videos (Learning phase only)  
-- All other projects → Include **Screenshots** of project structure & execution results + **Video recordings** of test executions  
-- Detailed **README documentation** with setup steps and explanations  
+## Learning Journey
+- **Phase 1:** Core Java + Selenium basics (`selenium-java-framework`)  
+- **Phase 2:** Beginner structured projects (`SeleniumLoginAutomation`, `FormSubmissionAutomation`)  
+- **Phase 3:** Framework design & reporting (`Automation-on-ECommerceCart`)  
+- **Phase 4:** Advanced, data-driven + BDD + CI/CD (`orangehrm-automation-framework`)  
+- **Phase 5:** API automation (`RESTAssuredAutomation`)  
 
-Check the individual repos linked above to explore them in detail.  
-
----
-
-## Tech Stack
-- **Languages**: Java (Core + Advanced)  
-- **Automation Tools**: Selenium WebDriver (3 & 4)  
-- **Testing Frameworks**: TestNG
-- **Design Pattern**: Page Object Model (POM), PageFactory  
-- **BDD**: Cucumber (learning phase)  
-- **Build Tool**: Maven  
-- **Reporting**: Extent Reports, TestNG HTML Reports  
-- **Utilities**: WebDriverManager, Git, .gitignore  
-
----
-
-## My Learning Journey
-- **Phase 1 (Learning)** → Core Java + Selenium basics (`selenium-java-framework`)  
-- **Phase 2 (Basics)** → Compact structured projects (`SeleniumLoginAutomation`, `FormSubmissionAutomation`)  
-- **Phase 3 (Intermediate)** → Framework design & reporting (`Automation-on-ECommerceCart`)  
-- **Phase 4 (Advanced):** Data-driven + BDD frameworks + Jenkins (`orangehrm-automation-framework`)  
 ---
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/abarna03/)  
 - [GitHub](https://github.com/AbarnaSelv)  
 
----
-
-If you find my projects useful, don’t forget to **star my repositories** and follow along as I continue building more advanced frameworks!
+*The projects above provide practical examples of UI and API automation frameworks, reusable components, and real-world testing practices.*
