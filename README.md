@@ -102,10 +102,9 @@ An **advanced, data-driven framework** for **OrangeHRM (opensource demo)**.
 
 **Key Features:**
 - Data-driven testing using Excel  
-- Cross-browser execution  
 - Reusable utilities  
 - Advanced reporting (Extent Reports + Cucumber HTML)  
-- CI/CD ready for Jenkins integration  
+- Free-Style Jenkins Execution 
 - Screenshots & execution videos included  
 
 *Demonstrates enterprise-level automation design and maintainability.*
