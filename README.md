@@ -18,7 +18,7 @@ It focuses on applying **Java fundamentals** to practical Selenium automation ta
 - Static variables & methods, Variable types  
 - Inheritance, Abstract classes, Interfaces  
 - Exception Handling  
-- Collections (basic to advanced)  
+- Collections  
 
 **Tech stack:**
 - Java (Core + OOP concepts)  
@@ -103,7 +103,7 @@ An **advanced, data-driven framework** for **OrangeHRM (opensource demo)**.
 **Key Features:**
 - Data-driven testing using Excel  
 - Reusable utilities  
-- Advanced reporting (Extent Reports + Cucumber HTML)  
+- Cucumber Reporting 
 - Free-Style Jenkins Execution 
 - Screenshots & execution videos included  
 
@@ -138,7 +138,7 @@ This project demonstrates **API automation testing** using REST Assured, complem
 - **Design Pattern:** Page Object Model (POM), PageFactory  
 - **BDD:** Cucumber (learning phase)  
 - **Build Tool:** Maven  
-- **CI/CD:** Jenkins  
+- **Free-Style Project:** Jenkins  
 - **Reporting:** Extent Reports, TestNG HTML Reports  
 - **Utilities:** WebDriverManager, Git, .gitignore  
 
@@ -149,7 +149,7 @@ This project demonstrates **API automation testing** using REST Assured, complem
 - **Phase 1:** Core Java + Selenium basics (`selenium-java-framework`)  
 - **Phase 2:** Beginner structured projects (`SeleniumLoginAutomation`, `FormSubmissionAutomation`)  
 - **Phase 3:** Framework design & reporting (`Automation-on-ECommerceCart`)  
-- **Phase 4:** Advanced, data-driven + BDD + CI/CD (`orangehrm-automation-framework`)  
+- **Phase 4:** Advanced, data-driven + BDD + Jenkins (`orangehrm-automation-framework`)  
 - **Phase 5:** API automation (`RESTAssuredAutomation`)  
 
 ---
