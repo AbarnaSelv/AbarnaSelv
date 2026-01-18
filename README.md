@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abarna </h1>
-<h3 align="center">Software Testing | UI Automation & API Testing</h3>
+<h3 align="center">Software Testing | UI Automation & API </h3>
 
 ---
 
