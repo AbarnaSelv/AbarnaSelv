@@ -1,161 +1,130 @@
-# Automation Testing Portfolio
+<h1 align="center">✨ Hi, I'm Abarna 👋</h1>
+<h3 align="center">QA Automation Engineer | UI & API Testing | 2+ Years Experience</h3>
 
-This repository presents a collection of **Automation Testing projects**, covering both **UI and API testing**.  
-It highlights a progression from **Java fundamentals** to **Selenium automation frameworks** and further into **REST Assured API testing**.  
-
-The projects demonstrate growth in building **scalable, maintainable, and enterprise-ready automation frameworks**.
-
----
-
-## Projects
-
-### 1. [selenium-java-framework](https://github.com/AbarnaSelv/selenium-java-framework) _(Learning Phase)_
-This is my **first Selenium project**, created while following Koushik’s tutorials.  
-It focuses on applying **Java fundamentals** to practical Selenium automation tasks, providing a **strong foundation for building automation frameworks**.
-
-**Java topics covered:**
-- Variables, Methods, Constructors, Arrays, Data types  
-- Static variables & methods, Variable types  
-- Inheritance, Abstract classes, Interfaces  
-- Exception Handling  
-- Collections  
-
-**Tech stack:**
-- Java (Core + OOP concepts)  
-- Selenium 3.141.59  
-- TestNG 6.14.2  
-- Page Object Model (POM)  
-- Cucumber (BDD)  
-
-*Built to practice and reinforce core Java and Selenium concepts for beginners.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbarnaSelv&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
 
 ---
 
-### 2. [SeleniumLoginAutomation](https://github.com/AbarnaSelv/SeleniumLoginAutomation) _(Beginner Level)_
-A **compact Selenium project** demonstrating professional structure with simple, reusable test flows.
+## 👩‍💻 About Me
 
-**Tech stack:**
-- Java 17  
-- Selenium 4  
-- TestNG  
-- Page Object Model (PageFactory)  
-- Maven  
-
-**Test Flows:**
-1. Login → authenticate into the site  
-2. Logout → open menu & logout (with explicit waits)  
-3. Add product to cart → verify → logout  
-
-*Focuses on Selenium basics with clean project organization.*
+- 🧪 **QA Automation Engineer with 2+ years of experience at Wipro**
+- 🔍 Strong expertise in **UI Automation & API Testing**
+- ⚙️ Hands-on with **Selenium, Postman, Rest Assured**
+- 🐞 Experienced in **Manual Testing, Test Case Design & Defect Tracking**
+- 🌱 Currently learning **Playwright Automation** and exploring **AI-powered Testing approaches** to improve test efficiency and coverage
+- 💡 Passionate about delivering **high-quality, reliable software**
 
 ---
 
-### 3. [FormSubmissionAutomation](https://github.com/AbarnaSelv/FormSubmissionAutomation) _(Intermediate Basics)_
-Extends Selenium basics into **real-world form interactions**.
+## 🚀 Skills & Tech Stack
 
-**Tech stack:**
-- Java 17  
-- Selenium 4  
-- TestNG  
-- Page Object Model (POM with PageFactory)  
-- Maven  
+### 🧠 Programming / Scripting
+![Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Scenarios Covered:**
-- Login & password  
-- Disabled & read-only input fields  
-- Dropdowns, Radio buttons, Checkboxes  
-- File upload  
-- Color picker, Date picker, Range slider  
-- Form submission  
-
-*Designed for modularity, maintainability, and scalability.*
+✔ OOPs Concepts  
+✔ Exception Handling  
+✔ Collections  
 
 ---
 
-### 4. [Automation-on-ECommerceCart](https://github.com/AbarnaSelv/Automation-on-ECommerceCart) _(Intermediate)_
-An **end-to-end Selenium automation framework** for e-commerce applications.
-
-**Features:**
-- Login → Add products to cart → Checkout → Verify order success → Logout  
-- Page Object Model (POM)  
-- WebDriverManager for automatic driver handling  
-- Utility classes for screenshots & reusable methods  
-- TestNG Listeners for logging & execution tracking  
-- Extent Reports for professional HTML reporting  
-- Default TestNG reports (`test-output`)  
-
-*Focus on framework design, reusability, and reporting.*
+### 🧪 Automation / Frameworks / Tools
+![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-E74C3C?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber)
+![POM](https://img.shields.io/badge/Page_Object_Model-blue?style=for-the-badge)
 
 ---
 
-### 5. [orangehrm-automation-framework](https://github.com/AbarnaSelv/orangehrm-automation-framework) _(Advanced Level)_
-An **advanced, data-driven framework** for **OrangeHRM (opensource demo)**.
+### 🌐 API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![RestAssured](https://img.shields.io/badge/Rest_Assured-2E8B57?style=for-the-badge)
 
-**Tech stack:**
-- Java  
-- Selenium WebDriver  
-- Cucumber (BDD)  
-- TestNG  
-- Page Object Model (POM)  
-- Maven  
-- Jenkins  
-
-**Key Features:**
-- Data-driven testing using Excel  
-- Reusable utilities  
-- Cucumber Reporting 
-- Free-Style Jenkins Execution 
-- Screenshots & execution videos included  
-
-*Demonstrates enterprise-level automation design and maintainability.*
+✔ API Automation  
+✔ Request Validation  
+✔ Response Assertions  
 
 ---
 
-### 6. [RESTAssuredAutomation](https://github.com/AbarnaSelv/RESTAssuredAutomation) _(API & Automation Testing)_
-This project demonstrates **API automation testing** using REST Assured, complementing my Selenium work.
+### 🧪 Testing & Tracking
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-6A5ACD?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression_Testing-FF4500?style=for-the-badge)
+![Functional](https://img.shields.io/badge/Functional_Testing-1E90FF?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira)
 
-**Highlights:**
-- API CRUD operations: GET, POST, PUT, PATCH, DELETE  
-- JSON and XML schema validation  
-- SOAP request handling  
-- Maven-based project structure for easy dependency management  
-- Test execution videos and project screenshots included  
-
-*Structured for clarity, reusability, and real-world API testing practices.*
+✔ Test Case Design  
+✔ Defect Tracking  
+✔ Data-Driven Testing  
 
 ---
 
-## Screenshots & Execution Evidence
-- All projects include **execution screenshots** and **video recordings** to demonstrate test runs and framework functionality.  
-- Detailed **README documentation** in each repository explains project setup and execution steps. 
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## Overall Tech Stack
-- **Languages:** Java (Core + Advanced)  
-- **Automation Tools:** Selenium WebDriver, REST Assured  
-- **Testing Frameworks:** TestNG  
-- **Design Pattern:** Page Object Model (POM), PageFactory  
-- **BDD:** Cucumber (learning phase)  
-- **Build Tool:** Maven  
-- **Free-Style Project:** Jenkins  
-- **Reporting:** Extent Reports, TestNG HTML Reports  
-- **Utilities:** WebDriverManager, Git, .gitignore  
+## 💼 Professional Experience
 
+### 🏢 Wipro  
+**QA / Automation Engineer**  
+📅 *2+ Years Experience*
 
----
-
-## Learning Journey
-- **Phase 1:** Core Java + Selenium basics (`selenium-java-framework`)  
-- **Phase 2:** Beginner structured projects (`SeleniumLoginAutomation`, `FormSubmissionAutomation`)  
-- **Phase 3:** Framework design & reporting (`Automation-on-ECommerceCart`)  
-- **Phase 4:** Advanced, data-driven + BDD + Jenkins (`orangehrm-automation-framework`)  
-- **Phase 5:** API automation (`RESTAssuredAutomation`)  
+- Automated web applications using **Selenium WebDriver with Java**
+- Performed **API Testing using Postman and Rest Assured**
+- Designed and executed **Manual & Automation Test Cases**
+- Worked on **Regression, Functional, and Data-Driven Testing**
+- Logged and tracked defects using **JIRA**
+- Collaborated with developers and stakeholders to ensure quality delivery
 
 ---
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/abarna03/)  
-- [GitHub](https://github.com/AbarnaSelv)  
+## 📂 Featured Projects
 
-*The projects above provide practical examples of UI and API automation frameworks, reusable components, and real-world testing practices.*
+🔹 **UI Automation Framework**
+- Selenium + Java + TestNG
+- Page Object Model (POM)
+- Reusable & scalable framework
+
+🔹 **API Automation Suite**
+- Rest Assured + Java
+- Request/Response validation
+- Data-driven API testing
+
+🔹 **Manual Testing Project**
+- End-to-End test scenarios
+- Bug lifecycle & reporting
+- Regression testing
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbarnaSelv&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbarnaSelv&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abarna03/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abarna%20Selv-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:abarnaselvaganapathy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+⭐ *“Quality assurance is not about finding bugs, it’s about preventing them.”*
