@@ -1,22 +1,17 @@
 <h1 align="center">Hi, I'm Abarna </h1>
-<h3 align="center">QA Automation Engineer | UI & API Testing | 2+ Years Experience</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbarnaSelv&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
+<h3 align="center">Test Engineer | UI & API Testing | 2+ Years Experience</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🧪 **QA Automation Engineer with 2+ years of experience at Wipro**
+- 🧪 **QA Automation Engineer with over 2 years of experience at Wipro**
 - 🔍 Strong expertise in **UI Automation & API Testing**
 - ⚙️ Hands-on with **Selenium, Postman, Rest Assured**
 - 🐞 Experienced in **Manual Testing, Test Case Design & Defect Tracking**
 - 🌱 Currently learning **Playwright Automation** and exploring **AI-powered Testing approaches** to improve test efficiency and coverage
 - 💡 Passionate about delivering **high-quality, reliable software**
-
-📄 **[View Resume](https://drive.google.com/file/d/1awqY0OmwwBvFBHec_FmE9OnpDs3Yzis-/view)**
+- 📄 View my [Resume](https://drive.google.com/file/d/1awqY0OmwwBvFBHec_FmE9OnpDs3Yzis-/view)**
 
 ---
 
