@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abarna </h1>
-<h3 align="center">Test Engineer | UI & API Testing | 2+ Years Experience</h3>
+<h3 align="center">Software Testing | UI Automation & API Testing</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 - 🐞 Experienced in **Manual Testing, Test Case Design & Defect Tracking**
 - 🌱 Currently learning **Playwright Automation** and exploring **AI-powered Testing approaches** to improve test efficiency and coverage
 - 💡 Passionate about delivering **high-quality, reliable software**
-- 📄 View my [Resume](https://drive.google.com/file/d/1awqY0OmwwBvFBHec_FmE9OnpDs3Yzis-/view)**
+- 📄 View my [Resume](https://drive.google.com/file/d/1awqY0OmwwBvFBHec_FmE9OnpDs3Yzis-/view)
 
 ---
 
@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/Rest_Assured-2E8B57?style=flat"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven"/>
+
 </p>
 
 <p>
