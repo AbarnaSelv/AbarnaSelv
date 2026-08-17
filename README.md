@@ -11,7 +11,7 @@
 - 🐞 Experienced in **Manual Testing, Test Case Design & Defect Tracking**
 - 🌱 Currently learning **Playwright Automation** and exploring **AI-powered Testing approaches** to improve test efficiency and coverage
 - 💡 Passionate about delivering **high-quality, reliable software**
-- 📄 View my [Resume](https://drive.google.com/file/d/1ZVPb-HsWel_GwQpMCLzYJXWkEiL3fcmR/view?usp=sharing)
+- 📄 View my [Resume](https://drive.google.com/file/d/1Ewql80xIMRsh1_8QzE3-Xx7bpN3omrX4/view?usp=sharing)
 
 ---
 
